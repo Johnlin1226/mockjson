@@ -7,7 +7,7 @@
 			"Email": "emily@musk.com",
 			"createdYear": "2020",
 			"Amount": 123.1,
-			"description": "EY is the best"
+			"description": "EY is the best",
 		},
 		{
 			"ID": 2,
@@ -16,8 +16,7 @@
 			"Email": "anna@fantastic.com",
 			"createdYear": "2020",
 			"Amount": 200.1,
-			"description": "Anna is the best"
-		},
+			"description": "Anna is the best".
 		{
 			"ID": 3,
 			"First_Name": "Andy Cruise",
